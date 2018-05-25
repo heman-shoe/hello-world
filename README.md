@@ -1,2 +1,2 @@
 # hello-world
-This is a practice repository. Thanks!
+I am Himanshu. I am a student of data science, and this is my first time doins this stuff. Thanks!
